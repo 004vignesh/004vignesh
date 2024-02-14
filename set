@@ -1,0 +1,8 @@
+Features of Hashset :
+1) Hash tabel
+2) No Duplicates
+3) insertion is not in order form
+4) Heterogeneous
+5) null is allowed
+6) Serializable and cloneable;
+7) search operation is very optimal
